@@ -177,6 +177,6 @@ def plot_decision_regions(x, y):
 plot_decision_regions(x_test, y_test)
 ```
 ##output:
-!image(https://github.com/prathima2002/Experiment-2--Implementation-of-Perceptron/blob/a8a34cfe0e4d9a94b5843dda67dadaec497ee74f/WhatsApp%20Image%202022-10-06%20at%2010.11.09.jpeg)
+![image](https://github.com/prathima2002/Experiment-2--Implementation-of-Perceptron/blob/a8a34cfe0e4d9a94b5843dda67dadaec497ee74f/WhatsApp%20Image%202022-10-06%20at%2010.11.09.jpeg)
 ##Result:
 Thus the above program for implementation of perceptron has been completed and out is verified successfully!
