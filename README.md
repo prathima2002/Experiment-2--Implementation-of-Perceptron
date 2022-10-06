@@ -43,7 +43,7 @@ Print the accuracy
 
 
  PROGRAM:
-
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -175,6 +175,7 @@ def plot_decision_regions(x, y):
    plt.show()
 
 plot_decision_regions(x_test, y_test)
+```
 ##output:
 !image(https://github.com/prathima2002/Experiment-2--Implementation-of-Perceptron/blob/a8a34cfe0e4d9a94b5843dda67dadaec497ee74f/WhatsApp%20Image%202022-10-06%20at%2010.11.09.jpeg)
 ##Result:
